@@ -33,6 +33,6 @@ build/
 .vscode/
 
 ### dump dir
-dumps
+dumps/
 dumps.zip
-frontier
+frontier/
