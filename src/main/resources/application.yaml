@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:mysql://xtyno2:3306/mosaic
+    username: root
+    password: mosaic
+    driver-class-name: com.mysql.cj.jdbc.Driver
